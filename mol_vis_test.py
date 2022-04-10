@@ -15,7 +15,7 @@ def makeblock(smi):
     return mblock
 
 def render_mol(xyz):
-    xyzview = py3Dmol.view()#(width=600,height=600)
+    xyzview = py3Dmol.view()#(width=1000,height=1000)
     xyzview.addModel(xyz,'mol')
     xyzview.setStyle({'stick':{}})
     xyzview.setBackgroundColor('white')
