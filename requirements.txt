@@ -3,4 +3,3 @@ Pillow
 py3Dmol
 stmol
 git+https://github.com/Mishima-syk/psikit
-psi4-pypi
