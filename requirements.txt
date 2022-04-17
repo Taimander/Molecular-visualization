@@ -3,4 +3,3 @@ Pillow
 py3Dmol
 stmol
 psikit
-psi4
