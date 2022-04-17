@@ -2,5 +2,5 @@ rdkit-pypi
 Pillow
 py3Dmol
 stmol
-psikit-conda
+psikit-pypi
 
