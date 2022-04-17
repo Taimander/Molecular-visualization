@@ -7,12 +7,12 @@ from rdkit import Chem
 from rdkit.Chem import AllChem
 
 #pk = Psikit()
-#pk.read_from_smiles('O')
-#pk.energy()
-#pk.create_cube_files(gridspace=0.5)
+pk.read_from_smiles('O')
+pk.energy()
+pk.create_cube_files(gridspace=0.5)
 
-#homo_voldata = open("Psi_a_5_1-A\"_HOMO.cube", "r").read()
-#lumo_voldata = open("Psi_a_6_5-A\'_LUMO.cube", "r").read()
+homo_voldata = open("Psi_a_5_1-A\"_HOMO.cube", "r").read()
+lumo_voldata = open("Psi_a_6_5-A\'_LUMO.cube", "r").read()
 
 #v = py3Dmol.view()
 #v.addVolumetricData(homo_voldata, "cube", {'isoval': -0.03, 'color': "red", 'opacity': 0.75})
