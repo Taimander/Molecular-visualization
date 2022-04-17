@@ -2,4 +2,5 @@ rdkit-pypi
 Pillow
 py3Dmol
 stmol
-git+https://github.com/Mishima-syk/psikit
+psikit-conda
+
