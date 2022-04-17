@@ -22,7 +22,7 @@ from rdkit.Chem import AllChem
 #v.zoomTo()
 #v.show()
 
-st.title('RDKit + Py3DMOL 😀')
+#st.title('RDKit + Py3DMOL 😀')
 
 
 #def makeblock(smi):
