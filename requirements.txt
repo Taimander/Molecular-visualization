@@ -2,5 +2,4 @@ rdkit-pypi
 Pillow
 py3Dmol
 stmol
-Psi4
 git+https://github.com/Mishima-syk/psikit
