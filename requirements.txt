@@ -3,4 +3,4 @@ Pillow
 py3Dmol
 stmol
 anaconda
-Psi4-conda
+psi4 psi4-conda
