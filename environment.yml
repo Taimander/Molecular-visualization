@@ -3,4 +3,4 @@ channels:
  - conda-forge
 dependencies:
  - psi4
- - py3Dmol
+ - py3dmol
