@@ -3,3 +3,4 @@ Pillow
 py3Dmol
 stmol
 Psi4
+git+https://github.com/psi4/psi4
