@@ -1,8 +1,8 @@
 import streamlit as st
-from stmol import showmol
 import py3Dmol
+from stmol import showmol
 #from psikit import Psikit
-import numpy as np
+#import numpy as np
 import psi4
 
 from rdkit import Chem
