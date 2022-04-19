@@ -3,4 +3,4 @@ channels:
  - conda-forge
 dependencies:
  - psi4
- - py3dmol==1.7.0
+ - rdkit
