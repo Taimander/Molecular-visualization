@@ -1,4 +1,5 @@
 channels:
  - psi4
+ - conda-forge
 dependencies:
  - psi4
