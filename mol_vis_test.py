@@ -1,18 +1,19 @@
 import streamlit as st
 from stmol import showmol
 import py3Dmol
-from psikit import psikit
+from psikit import Psikit
+import numpy as np
 
 from rdkit import Chem
 from rdkit.Chem import AllChem
 
 #pk = Psikit()
-psikit.read_from_smiles('O')
-psikit.energy()
-psikit.create_cube_files(gridspace=0.5)
+#pk.read_from_smiles('O')
+#pk.energy()
+#pk.create_cube_files(gridspace=0.5)
 
-homo_voldata = open("Psi_a_5_1-A\"_HOMO.cube", "r").read()
-lumo_voldata = open("Psi_a_6_5-A\'_LUMO.cube", "r").read()
+#homo_voldata = open("Psi_a_5_1-A\"_HOMO.cube", "r").read()
+#lumo_voldata = open("Psi_a_6_5-A\'_LUMO.cube", "r").read()
 
 #v = py3Dmol.view()
 #v.addVolumetricData(homo_voldata, "cube", {'isoval': -0.03, 'color': "red", 'opacity': 0.75})
